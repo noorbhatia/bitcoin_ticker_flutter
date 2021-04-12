@@ -33,7 +33,7 @@ const List<String> cryptoList = [
 ];
 
 const coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate/BTC';
-const apiKey = 'ABDBC0D0-50CA-46C0-8DC1-F00D29302B0B';
+const apiKey = '';
 
 class CoinData {
   //TODO: Create your getCoinData() method here.
